@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font: 100 14px "Arial";
+  background-color: black;
+}
+
+.auto-scaling-text {
+  display: inline-block;
+}
